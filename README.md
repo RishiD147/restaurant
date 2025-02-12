@@ -3,3 +3,4 @@
 2/2/25  - 65
 menu
 cover
+seats
