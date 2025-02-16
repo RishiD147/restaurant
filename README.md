@@ -5,3 +5,4 @@ menu
 cover
 seats
 food
+tables
