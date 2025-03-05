@@ -7,7 +7,7 @@ seats
 food
 tables
 
-1234
+
 food
 pax
 KOT
